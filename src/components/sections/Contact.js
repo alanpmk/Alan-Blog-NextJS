@@ -41,8 +41,8 @@ const Contact = () => {
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-envelope" />
             <p>
-              <span className="small-text">email</span>
-              contact@alanpham.dev
+              <span className="small-text">Telegram</span>
+              @alanpham.dev
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}

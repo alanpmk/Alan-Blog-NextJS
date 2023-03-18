@@ -10,25 +10,25 @@ export const jqueryFuntion = () => {
     var preloader = $("#preloader");
     setTimeout(function () {
       preloader.addClass("preloaded");
-    }, 800);
+    }, 700);
     if ($(window).width() > 1024) {
       setTimeout(function () {
         $(".header-inner").addClass("animated fadeInDown");
-      }, 1500);
+      }, 700);
       setTimeout(function () {
         $(".home>div>div h1 span span").addClass("animated fadeInUp");
         $(".home>div>div .intro").addClass("animated fadeInUp");
         $(".home .cta").addClass("animated fadeInUp");
-      }, 2200);
+      }, 1500);
     } else {
       setTimeout(function () {
         $(".header-inner").addClass("animated fadeInDown");
-      }, 1100);
+      }, 900);
       setTimeout(function () {
         $(".home>div>div h1 span span").addClass("animated fadeInUp");
         $(".home>div>div .intro").addClass("animated fadeInUp");
         $(".home .cta").addClass("animated fadeInUp");
-      }, 1800);
+      }, 1100);
     }
 
     /* ----------------------------------------------------------- */
