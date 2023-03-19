@@ -78,7 +78,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Phone :</span>
-                    <span>+63 987 292 1744</span>
+                    <span>+63 956 830 1252</span>
                   </span>
                 </span>
               </li>
