@@ -94,7 +94,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Telegram :</span>
-                    <span>alanpham.dev</span>
+                    <span>it_alan</span>
                   </span>
                 </span>
               </li>
